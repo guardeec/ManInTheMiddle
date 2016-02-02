@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ManInTheMiddle">
+    <output-path>$PROJECT_DIR$/out/artifacts/ManInTheMiddle</output-path>
+    <root id="archive" name="ManInTheMiddle.jar">
+      <element id="module-output" name="ManInTheMiddle" />
+    </root>
+  </artifact>
+</component>
